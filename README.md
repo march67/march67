@@ -1,4 +1,4 @@
-Hi I am nice don't worry.
+       Hi I am nice don't worry.                                                                              I also like coffee.
 
 <img src=./oui/cartoon-cute.gif align="left"/>
 <img src=./oui/peach-cat.gif align="right"/>
