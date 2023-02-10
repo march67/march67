@@ -1,3 +1,4 @@
-Hi I am a keyuser lol
+Hi I am nice don't worry.
 
-<img src=./oui/peach-cat.gif>
+<img src=./oui/cartoon-cute.gif align="right"/>
+<img src=./oui/peach-cat.gif align="left"/>
